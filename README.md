@@ -1,6 +1,6 @@
-# screen_transition_with_firebase_auth
+# Screen Transition with Firebase Authentication
 
-A new Flutter project.
+Screen transition procedure ex. with Firebase Authentication
 
 ## Getting Started
 
