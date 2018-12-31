@@ -68,6 +68,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   border: const UnderlineInputBorder(),
                   labelText: 'Password',
                 ),
+                obscureText: true,
               ),
               const SizedBox(height: 24.0,),
               Center(
